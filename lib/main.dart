@@ -7,7 +7,13 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
+  // This widget is
+  //
+  //
+  
+  
+
+  //  the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -17,7 +23,7 @@ class MyApp extends StatelessWidget {
 
 
 
-        
+
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
@@ -88,6 +94,9 @@ class _MyHomePageState extends State<MyHomePage> {
           // arranges them vertically. By default, it sizes itself to fit its
           // children horizontally, and tries to be as tall as its parent.
           //
+
+
+          
           // Invoke "debug painting" (press "p" in the console, choose the
           // "Toggle Debug Paint" action from the Flutter Inspector in Android
           // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
